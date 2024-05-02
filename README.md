@@ -60,3 +60,8 @@ evaluate the models. The Museval package evluates stems on four metrics:
 - Vocal Remover, to run this model go to Vocalremover.org and upload the input files and it will download the outputs for you.
 - The .ipynb files that run models are for open unmix, ht-demucs, and spleeter. you mount the notebook to your google drive and specify which folders the data is coming from and where it is being output.
 - the evaluation notebooks operate the same was as the model notebooks, you specify the google drive folder with the inputs and the musdb18 dataset as well as the file types and it will run the evaluation
+
+## More information
+here is the link to our final presentation if you would like to see more information:
+https://docs.google.com/presentation/d/1ovE5-4vGLjDtA6TcDmyPR6Qjr34_hd3upGMxGBXhlWI/edit#slide=id.g2d05083ae11_0_35
+
